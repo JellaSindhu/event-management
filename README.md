@@ -131,7 +131,7 @@ Once the application is running, you can use Postman or any other API client to 
 
 ## Postman Screenshots
 
-Below are the Postman screenshots demonstrating each API endpoint. Ensure to replace the placeholder text with your actual screenshots.
+Below are the Postman screenshots demonstrating each API endpoint.
 
 ### 1. Create Event Ticket
 
