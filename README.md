@@ -2,7 +2,7 @@
 
 # Event Management API
 
-Welcome to the **Event Management API**! This is a Spring Boot application designed to facilitate the management of event tickets. Users can create, read, update, and delete event tickets while also being able to filter tickets and calculate total amounts grouped by sellers.
+Welcome to the **Event Management API**! This is a Spring Boot application designed to facilitate the management of event tickets. Users can create, read event tickets while also being able to filter tickets and calculate total amounts grouped by sellers.
 
 ## Table of Contents
 
